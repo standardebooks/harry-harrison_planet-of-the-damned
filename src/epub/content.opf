@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-05T20:04:40Z</dc:date>
+		<meta property="dcterms:modified">2026-01-05T20:04:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,15 +41,15 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A planetary champion finds himself employed to solve another planet’s pressing problem.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The pinnacle of achievement on the planet Anvhar is winning the Twenties: their annual physical and mental games. Brion Brandd has pushed himself beyond all his limits to claim the trophy, but his post-success recuperation is interrupted by a previous Winner on a mission. Ihelj’s story about the upcoming mutual destruction of two planets in a far-flung system, combined with subtle emotional manipulation, is enough to convince Brion that in saving human life he has a hitherto unforeseen job to do.&lt;/p&gt;
+			&lt;p&gt;The pinnacle of achievement on the planet Anvhar is winning the Twenties: their annual physical and mental games. Brion Brandd has pushed himself beyond all his limits to claim the trophy, but his post-success recuperation is interrupted by a previous Winner, named Ihelj, on a mission. Ihelj’s story about the upcoming mutual destruction of two planets in a far-flung system, combined with subtle emotional manipulation, is enough to convince Brion that in saving human life he has a hitherto unforeseen job to do.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/harry-harrison"&gt;Harry Harrison&lt;/a&gt; was still early in his career when he wrote this story, which was originally serialized in &lt;i&gt;Analog Science Fact &amp;amp; Fiction&lt;/i&gt; in 1961. It was well received, being nominated for a Hugo award for Best Novel in 1962.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21873</dc:source>
 		<dc:source>https://archive.org/details/planetofdamned0000harr_k6f7</dc:source>
 		<meta property="se:production-notes">Most of the CSS is for the single-page “vision” near the end of chapter 3. Typogrify will add spaces between the dots which isn’t intentional, so don’t commit that if you run it again. The source for this is https://archive.org/details/planetofdamned0000harr_k6f7/page/22/mode/1up</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">56685</meta>
+		<meta property="se:reading-ease.flesch">75.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Planet_of_the_Damned</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/harry-harrison_planet-of-the-damned</meta>
 		<dc:creator id="author">Harry Harrison</dc:creator>
@@ -83,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
