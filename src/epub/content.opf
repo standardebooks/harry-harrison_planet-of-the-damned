@@ -48,7 +48,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/21873</dc:source>
 		<dc:source>https://archive.org/details/planetofdamned0000harr_k6f7</dc:source>
 		<meta property="se:production-notes">Most of the CSS is for the single-page “vision” near the end of chapter 3. Typogrify will add spaces between the dots which isn’t intentional, so don’t commit that if you run it again. The source for this is https://archive.org/details/planetofdamned0000harr_k6f7/page/22/mode/1up</meta>
-		<meta property="se:word-count">56685</meta>
+		<meta property="se:word-count">55608</meta>
 		<meta property="se:reading-ease.flesch">75.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Planet_of_the_Damned</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/harry-harrison_planet-of-the-damned</meta>
