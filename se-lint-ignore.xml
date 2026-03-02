@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
-		<ignore>
-			<code>s-046</code>
+		<ignore code="s-046">
 			<reason>Necessary for the specific layout of non-verse content.</reason>
 		</ignore>
-		<ignore>
-			<code>t-029</code>
+		<ignore code="t-029">
 			<reason>Content has two-dot ellipses.</reason>
 		</ignore>
-		<ignore>
-			<code>t-057</code>
+		<ignore code="t-057">
 			<reason>Necessary for the specific layout of content.</reason>
 		</ignore>
-		<ignore>
-			<code>y-003</code>
+		<ignore code="y-003">
 			<reason>Necessary for the specific layout of content.</reason>
 		</ignore>
-		<ignore>
-			<code>y-016</code>
+		<ignore code="y-016">
 			<reason>Content has two-dot ellipses.</reason>
 		</ignore>
 	</file>
