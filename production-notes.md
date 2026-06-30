@@ -1,0 +1,1 @@
+Most of the CSS is for the single-page “vision” near the end of chapter 3. Typogrify will add spaces between the dots which isn’t intentional, so don’t commit that if you run it again. The source for this is https://archive.org/details/planetofdamned0000harr_k6f7/page/22/mode/1up
