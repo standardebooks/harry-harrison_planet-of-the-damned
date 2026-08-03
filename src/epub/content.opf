@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned</dc:identifier>
 		<dc:date>2026-01-05T20:04:40Z</dc:date>
@@ -40,11 +40,11 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008106912</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">A planetary champion finds himself employed to solve another planet’s pressing problem.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A planetary champion finds himself employed to solve another planet’s pressing problem.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The pinnacle of achievement on the planet Anvhar is winning the Twenties: their annual physical and mental games. Brion Brandd has pushed himself beyond all his limits to claim the trophy, but his post-success recuperation is interrupted by a previous Winner, named Ihelj, on a mission. Ihelj’s story about the upcoming mutual destruction of two planets in a far-flung system, combined with subtle emotional manipulation, is enough to convince Brion that in saving human life he has a hitherto unforeseen job to do.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/harry-harrison"&gt;Harry Harrison&lt;/a&gt; was still early in his career when he wrote this story, which was originally serialized in &lt;i&gt;Analog Science Fact &amp;amp; Fiction&lt;/i&gt; in 1961. It was well received, being nominated for a Hugo award for Best Novel in 1962.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21873</dc:source>
 		<dc:source>https://archive.org/details/planetofdamned0000harr_k6f7</dc:source>
