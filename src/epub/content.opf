@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008106912</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>A planetary champion finds himself employed to solve another planet’s pressing problem.</dc:abstract>
+		<meta property="schema:abstract">A planetary champion finds himself employed to solve another planet’s pressing problem.</meta>
 		<dc:description>
 			&lt;p&gt;The pinnacle of achievement on the planet Anvhar is winning the Twenties: their annual physical and mental games. Brion Brandd has pushed himself beyond all his limits to claim the trophy, but his post-success recuperation is interrupted by a previous Winner, named Ihelj, on a mission. Ihelj’s story about the upcoming mutual destruction of two planets in a far-flung system, combined with subtle emotional manipulation, is enough to convince Brion that in saving human life he has a hitherto unforeseen job to do.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/harry-harrison"&gt;Harry Harrison&lt;/a&gt; was still early in his career when he wrote this story, which was originally serialized in &lt;i&gt;Analog Science Fact &amp;amp; Fiction&lt;/i&gt; in 1961. It was well received, being nominated for a Hugo award for Best Novel in 1962.&lt;/p&gt;
