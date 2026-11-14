@@ -179,7 +179,6 @@ p span.i1{
 #chapter-3 > div > div > *:nth-child(3){
 	clear: both;
 	font-size: 2em;
-	font-stretch: condensed;
 	text-align: center;
 	text-indent: 0;
 	text-transform: uppercase;
@@ -222,7 +221,6 @@ p span.i1{
 
 #chapter-3 > div > *:nth-child(4) > strong{
 	font-size: 2em;
-	font-stretch: condensed;
 	text-transform: uppercase;
 }
 
