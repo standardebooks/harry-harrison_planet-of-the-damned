@@ -61,9 +61,8 @@
 		<link href="https://id.loc.gov/authorities/names/n79070047.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
-		<dc:contributor id="artist">Alfred H. Maurer</dc:contributor>
-		<meta property="file-as" refines="#artist">Maurer, Alfred H.</meta>
-		<meta property="schema:alternateName" refines="#artist">Alfred Henry Maurer</meta>
+		<dc:contributor id="artist">Alfred Henry Maurer</dc:contributor>
+		<meta property="file-as" refines="#artist">Maurer, Alfred Henry</meta>
 		<link href="https://en.wikipedia.org/wiki/Alfred_Henry_Maurer" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79079464.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
